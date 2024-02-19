@@ -1,0 +1,5 @@
+pytest
+
+
+Can be manually installed using
+pip install -r requirements.txt
