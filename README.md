@@ -6,3 +6,4 @@
 4. Write yml file for github action workflow
 5. commit and add to repo by using add. then commit then pull and push
 6. add jenkins file in jenkins
+7. add more stuff
